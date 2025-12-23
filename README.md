@@ -1,4 +1,17 @@
-## Hi there 👋
+American* Frontend Developer, just someone who likes to be creative, reponsible, organized and friend; with Hardworking and Honesty my trophy will be my happiness;
+
+Hobbies:
+
+• Games •
+• Sports •
+• Pop Culture •
+• Geography •
+
+Future:
+
+• Study Game Design •
+
+
 
 <!--
 **Freitsx/Freitsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
