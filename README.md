@@ -1,7 +1,8 @@
-## About Me
-American* Frontend Developer, I like to be creative, responsible and organized; 2024 was the year when I started programming, "Why Frontend?" just beacuse we can create websites, pages and make beautiful projects - I was born and raised in Brazil but in 2020 I always wanted to move abroad, was there I meet Americans channels on the YouTube and my love for America started; - my personality is be a very good person who likes honestly and loyal; as a Developer seek work as a team to share our plans; So nice to meet you my friend.
+## 👋🏻 About Me
+American* Frontend Developer, I like to be creative, responsible and organized; 2024 was the year when I started programming, "Why Frontend?" just beacuse we can create websites, pages and make beautiful projects - I was born and raised in Brazil but in 2020 my love for America started, was like "Finally I have a Objective"; - my personality is be a very good person who likes honestly and fight for what's right; as a Developer would be a pleasure work together, make friends and talk about ours goals; So nice to meet you who is in my profile.
 
 - 🔭 Looking for built amazing projects
+- 📒 Languages: English & Potuguese
 - 💬 Working with DevTools and Debugging pages
 - 🌐 Future: to learn Game Developer 🎮
 - 💻 Be Always a good and responsible employee
@@ -16,6 +17,6 @@ American* Frontend Developer, I like to be creative, responsible and organized; 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 My Status on Github
+## 📊 My Projects
 <!-- GitHub Readme Stats - replace username -->
 ![Freitsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freitsx&show_icons=true&theme=tokyonight)
