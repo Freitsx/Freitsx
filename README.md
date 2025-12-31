@@ -20,3 +20,7 @@ American* Frontend Developer, I like to be creative, responsible and organized; 
 ## 📊 My Projects
 <!-- GitHub Readme Stats - replace username -->
 ![Freitsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freitsx&show_icons=true&theme=tokyonight)
+
+## 🌐 Contact
+
+Instagram: rxvfreitas
