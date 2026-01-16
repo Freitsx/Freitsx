@@ -1,5 +1,5 @@
 ## 👋🏻 About Me
-American* Frontend Developer, I like to be creative, responsible and organized; 2024 was the year when I started programming, "Why Frontend?" just beacuse we can create websites, pages and make beautiful projects - I was born and raised in Brazil but in 2020 my love for America started, was like "Finally I have a Objective"; - my personality is be a very good person who likes honestly and fight for what's right; as a Developer would be a pleasure work together, make friends and talk about ours goals; So nice to meet you who is in my profile.
+American* Frontend Developer, I like to be creative, organized and responsible; always fight for what's right, with honestly and hard working our trophy will be the happiness; - as a Frontend Developer my job is create amazing websites with a creative design - So nice to meet you my friend.
 
 - 🔭 Looking for built amazing projects
 - 📒 Languages: English and Portuguese
