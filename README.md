@@ -7,7 +7,7 @@ American* Frontend Developer, I like to be creative, organized and responsible; 
 - 🌐 Future: to learn Game Developer 🎮
 - 💻 Be Always a good and responsible employee
 - 🗂 2029/2030 Create a huge project (With a team)
-- 🎁 Fun Facts: A fan of Games 🎮 - Sports 🏈 - Pop culture 🎥 - Geography 🗺; White is my favorite color ⚪ and Superman is favorite Superhero 🦸🏻
+- 🎁 Fun Facts: A fan of Games 🎮 - Sports 🏈 - Pop culture 🎥 - Geography 🗺; White is my favorite color ⚪ my gamer nickname is Mythra (A reference to Mythra from Xenoblade 2)
 
 ## 🪄 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
