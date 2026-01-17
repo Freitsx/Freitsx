@@ -18,8 +18,8 @@ American* Frontend Developer, I like to be creative, organized and responsible; 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📊 My Projects
-<!-- GitHub Readme Stats - replace username -->
-![Freitsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freitsx&show_icons=true&theme=tokyonight)
+
+Guess The Number - Login Page
 
 ## 🌐 Contact
 
